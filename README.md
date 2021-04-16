@@ -143,10 +143,6 @@ def desenha():
     glPopMatrix()
     
     glutSwapBuffers()
-    
-  
-
-# PROGRAMA PRINCIPAL
 
 glutInit(sys.argv)
 
